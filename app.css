@@ -37,3 +37,8 @@ ol li {
 li span {
     color: #ffb703;
 }
+
+img {
+    margin: 1em auto;
+    display: block;
+}
