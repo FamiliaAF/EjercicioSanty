@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 40em;
+    margin: 0 auto;
+    background-color: #023047;
+    color: white;
+    font-family: Georgia;
+    line-height: 1.5;
+}
+
+header {
+    background-color: #fb8500;
+    padding: 1.5em;
+    text-align: center;
+}
+
+h3 {
+    margin: 1em 0;
+    text-align: center;
+}
+
+ol {
+    border: 1px dashed white;
+    padding: 2em;
+}
+
+ol li {
+    border-bottom: 1px dashed white;
+    padding: 1em;
+}
+
+li span {
+    color: #ffb703;
+}
